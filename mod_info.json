@@ -1,0 +1,8 @@
+{
+	"id":"va11portraits", # internal id
+	"name":"VA11 HALL-A Portrait Pack", # displayed to the player
+	"author":"Joshinken",
+	"version":"1.2",
+	"description":"Adds 28 bartendweeb portraints. No spoilers",
+	"gameVersion":"0.95a-RC8",
+}
